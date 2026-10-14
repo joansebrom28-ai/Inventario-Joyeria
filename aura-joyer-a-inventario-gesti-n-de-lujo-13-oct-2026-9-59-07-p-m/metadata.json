@@ -1,0 +1,6 @@
+{
+  "name": "AURA Joyería - Inventario & Gestión de Lujo",
+  "description": "Sistema de gestión de inventario, ventas y escaparate digital para joyería fina con reportes en Excel/PDF, roles de usuario y soporte offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
